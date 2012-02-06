@@ -1,0 +1,542 @@
+* {
+	border:0;
+	margin:0;
+}
+
+
+body {
+	background:#E6E6E6;
+	color:#555;
+	font-family:'Palatino Linotype','Palatino',serif;
+	display:block;
+	direction:ltr;
+	font-size:11px; 
+	text-align:left;
+}
+#backindex
+{
+	background-color:#fafafa;
+}
+.content {
+	
+	
+	width:50%;
+	float:left;
+	border-right:1px dashed #555;
+	
+	
+	
+}
+.dppicture
+{	
+	float:left;
+	width:500px;
+	
+	
+	margin-top:20px;
+	margin-left:5px;
+	
+	border-top:1px solid #999999;
+	padding-bottom:10px;
+}
+.uploadedpictures2
+{
+	margin-left:5px;
+	width:500px;
+	
+	border-top:1px solid #999999;
+	float:left;
+	margin-top:20px;
+	padding-bottom:20px;
+}
+#upload_photo_file
+{
+	
+}
+
+.runtimediv
+{
+	width:80px;
+	margin-left:17px;
+	float:left;
+	margin-top:10px;
+	
+}
+.pictureupload
+{
+	text-align:center;
+	margin-top:5px;
+}
+.content input:focus{
+	
+	-moz-box-shadow: 0 0 5px 1px #888;
+	-webkit-box-shadow: 0 0 5px 1px#888;
+	box-shadow: 0 0 5px 1px #888;	
+}
+.content select:focus{
+	
+	-moz-box-shadow: 0 0 5px 1px #888;
+	-webkit-box-shadow: 0 0 5px 1px#888;
+	box-shadow: 0 0 5px 1px #888;	
+}
+.content select{
+	    
+	    background: #555;
+	    margin: 2px 0px;
+	    border: 3px black;
+	    padding: 2px;
+	    height:25px;
+}
+.content input{
+	border:1px solid #555;
+	height:20px;
+	
+}
+
+
+.content h1 {
+	margin-bottom:10px;
+	border-bottom:1px dotted #555;
+	font-size:1.8em;
+	padding:20px 0 0;
+}
+#login h1 {
+	margin-left:12%;
+
+	margin-bottom:10px;
+	border-bottom:1px dotted #555;
+	font-size:1.8em;
+	padding:20px 0 0;
+	width:500px;
+	
+}
+#contentmatter{
+	position:relative;
+	margin-left:50px;
+	margin-right:100px;
+}
+.register{
+	position:absolute;
+	margin-left:150px;
+	margin-top:20px;
+	}
+
+
+.errormsg {
+	   
+	   color:red;
+	   text-indent:120px;
+	   margin-bottom:-35px;
+}
+
+#mainheaderindex {
+  	
+    
+     left: 0;
+  	
+    height:50px;
+    top: 0;
+   min-width: 964px;
+	width:100%;
+	
+}
+#mainheader {
+  	
+    
+     left: 0;
+  
+	
+    height:60px;
+    top: 0;
+   min-width: 964px;
+	width:100%;
+	
+	
+}
+.loginformlabel
+{
+	   padding-bottom: 3px;
+	    padding-top: 1px;
+	    vertical-align: bottom;
+	
+}
+#flogin a
+{
+	color:white;
+}
+.inputcheckbox
+{
+	position: relative;
+    top: 1px;
+    vertical-align: bottom;
+}
+#logoindex
+{
+	font-size:45px;
+	color:#555;
+	
+	font-weight:bold;
+	margin-left:50px;
+	margin-top:8px;
+	position:absolute;
+	font-family:Courier New;
+}
+#contentandform
+{
+	float:left;
+	margin:0px auto;
+	width:100%;
+	padding-top:100px;
+}
+#logo
+{
+	font-size:45px;
+	color:#555;
+	font-weight:bold;
+	float:left;
+	margin-top:8px;
+	position:absolute;
+	font-family:Courier New;
+}
+	
+#footer{
+	
+	height:1px;
+	float:right;
+	width:791px;
+	
+}
+#footerindex
+{
+	height:2px;
+	border-bottom:1px solid #899BC1;
+	padding-top:40px;
+	width:946px;
+	clear:both;
+	margin:0 auto;
+}
+#footerindex p
+{
+	
+	font-size:9px;
+	float:right;
+	
+	position:relative;
+	margin-top:2px;
+}
+#creater
+{
+	padding-top:8px;
+	
+}
+#back
+{
+	
+	width:100%;
+	
+	margin:0px auto;
+	position:relative;
+}
+
+#login
+{
+	
+	height:50px;
+	width:49%;	
+	float:right;
+	
+	
+	
+	
+}
+#flogin
+{
+	margin:0 auto;
+	width:400px;
+	
+}
+.ltprofileedit
+{
+	margin:0 auto;
+}
+#floginindex
+{
+	margin:0 auto;
+	width:320px;
+	margin-top:9%;
+	height:160px;
+	
+	
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border:1px solid #555;
+	-moz-box-shadow: 0 0 5px 1px #888;
+	-webkit-box-shadow: 0 0 5px 1px#888;
+	box-shadow: 0px 0px 5px 2px #888;	
+}
+
+.ndivid
+{
+	background-color:red;
+	height:0px;
+	width:12px;
+	margin-left:25px;
+}
+#divfooter
+{
+	width:962px;
+	margin:0px auto;
+}
+#divfooter p
+{
+	font-size:9px;
+	float:right;
+	
+	position:relative;
+	margin-top:2px;
+}
+#mainheadercontainer {
+    margin: 0 auto;
+   display:block;
+    width: 964px;
+}
+.textboxfinal
+{
+	width:240px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+#submit
+{
+	height:25px;
+}
+#notificationbox
+{
+	float:right;
+	margin-top:30px;
+	
+}
+.friendrequestbox
+{
+	float:left;
+	z-index:100px;
+	position:relative;
+}
+
+.frndimgcount
+{
+	
+	background-color:#E6E6E6;
+	-webkit-border-radius: 2px;
+	color: green;
+	display:block;
+	font-size: 9px;
+	font-weight: bold;
+	padding-bottom: 1px;
+	position:absolute;
+	right: -1px;
+	top: -1px;
+	z-index: 101;
+	
+
+}
+.frndimgcount span
+{
+
+
+-webkit-border-radius: 2px;
+border-top: 0;
+display: block;
+padding: 1px 1px 0;
+	
+	
+}
+#frndimg1
+{
+	background-image:url(../images/friends1.png);
+	background-repeat: no-repeat !important;
+	background-position: 0 0 !important;
+	height:30px;
+	width:24px;
+	display:block;
+	
+	margin: 0 1px;
+}
+
+#frndimg2
+{
+	background-image:url(../images/msg1.png);
+	background-repeat: no-repeat !important;
+	background-position: 0 0 !important;
+	height:30px;
+	width:24px;
+	display:block;
+
+	margin: 0 1px;
+}
+#frndimg3
+{
+	background-image:url(../images/notification1.png);
+	background-repeat: no-repeat !important;
+	background-position: 0 0 !important;
+	height:30px;
+	width:24px;
+	display:block;
+	margin: 0 1px;
+}
+#display2
+{
+	
+	position:absolute;
+	margin-top:59px;
+	margin-left:680px;
+	overflow:hidden;
+	width:280px;
+	display:none;
+	z-index:2;
+	background-color: white;
+	border: 1px solid #333;
+	
+}
+#messagingframe
+{
+	display: block;
+	
+	margin-bottom: 10px;
+	min-height: 200px;
+	width: 500px;
+	
+}
+.extra
+{
+	margin-left:30px;
+	
+}
+.mymessageheader
+{
+	
+	padding:8px 0 16px;
+	position:relative;
+	
+	margin-top:2px;
+	
+}
+.moremessage
+{
+	text-align:center;
+	height:30px;
+	background-color:#555;
+	color:white;
+	padding-top:7px;
+	
+}
+.moremessage span
+{
+	font-size:14px;
+	
+}
+
+.rfloat
+{
+	text-align:right;
+	position:relative;
+	padding-top:6px;
+
+}
+.messagesearch
+{
+	border: 1px solid #BDC7D8;
+	display: inline-block;
+	width:200px;
+}
+.messageheadertitle
+{	
+	padding-left:9px;
+	float:left;
+	
+}
+.mainmsgarea
+{
+	margin-left:4px;
+	
+}
+.indmsgrep
+{
+	border-top-width: 1px;
+	border-width: 1px 0 0 0;
+	border-style: solid;
+}
+.messagetable
+{
+	border-spacing: 0px;
+	border-collapse: separate;
+}
+.messagetd
+{
+	width:600px;
+}
+.messagelinkdiv
+{
+	padding-top:5px;
+	padding-bottom:5px;
+	
+}
+.msglnkdivimg
+{
+	width:50px;
+	height:50px;
+	margin-right:10px;
+	float:left;
+}
+.msgtimestamp
+{
+	color: #AAA;
+	margin-top: 0px;
+	float: right;
+	font-size:9px;
+}
+.msgcontentname
+{
+	line-height: 16px;
+	position:relative;
+	display:table-cell;
+	float:left;
+}
+.msgcontentpart
+{
+	
+	text-overflow: ellipsis;
+	float:left;
+	position:relative;
+	
+}
+.authors
+{
+	font-size:13px;
+	font-weight:bolder;
+}
+.authorsmsg
+{
+	color: #AAA;
+	max-width: 400px;
+	overflow: hidden;
+	position: absolute;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size:11px;
+	word-wrap:break-word;
+}
+
+.plm
+{
+	padding-left:5px;
+}
+.pls
+{
+	padding-left:2px;
+}
+tr
+{
+	display:table-row;
+}

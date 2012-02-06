@@ -1,0 +1,58 @@
+.chatbox
+{
+	position:fixed;
+	width:225px;
+	display:none;
+	
+}
+.imgprint
+{
+	float:left;
+}
+.upperchat
+{
+	background-color:#6C7B8B;
+	padding: 7px;
+	color: white;
+	border-right: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+}
+.uppertitle
+{
+	float:left;
+}
+.chatboxoption
+{
+	float:right;
+}
+.chatcontent
+{
+	margin-left:1em;
+}
+.chatboxcontent
+{
+
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: #333;
+	height: 5px;
+	width: 209px;
+	overflow-y: auto;
+	overflow-x: auto;
+	padding: 7px;
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+	border-bottom: 1px solid #EEE;
+	background-color: white;
+	line-height: 1.3em;
+}
+.chatboxinput {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    padding: 5px;
+	resize:fixed;
+}
+
